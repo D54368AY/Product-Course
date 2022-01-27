@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+.text {
+  text-decoration: none;
+  color: white;
+}
+.producttext {
+  text-decoration: none;
+  color: black;
+}
+li {
+  list-style: none;
+}
+.float-left {
+  float: left;
+}
+.red {
+  color: red;
+}
+.black {
+  color: black;
+}
+a:hover {
+  opacity: 0.5;
+}
